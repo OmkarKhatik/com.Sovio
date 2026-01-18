@@ -6,7 +6,7 @@ Prerequisites
   i. Java JDK 8 or above
   ii. IDE
   iii. Google Chrome browser
-  iv. Selenium JAR files added to project link: https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.1.0/selenium-server-4.1.0.jar
+  iv. Selenium JAR files added to project. link: https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.1.0/selenium-server-4.1.0.jar
 2. Steps to Setup
   i. Clone or download the project
   ii. Add Selenium JARs to the project build path

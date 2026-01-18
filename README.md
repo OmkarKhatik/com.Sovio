@@ -15,3 +15,8 @@ Prerequisites
   i. Right-click on any .java file
   ii. Select Run as, Java Application
   iii. You will Observe the flow and result in console
+
+  Note: Automation Limitations:
+  The following steps are validated manually:
+  Clicking verification link from email and
+  Biometric / Passkey authentication popup because These involve third-party systems or OS-level security APIs which are outside Selenium’s control.
